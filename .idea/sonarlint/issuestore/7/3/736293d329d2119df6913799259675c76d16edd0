@@ -1,0 +1,11 @@
+
+0
+java:S1220""Move this file to a named package.
+^
+java:S1854	"<Remove this useless assignment to local variable "textFile".(ÈÀ×Øýÿÿÿÿ8³‡Çô’1
+`
+java:S1854"CRemove this useless assignment to local variable "textFileInvoker".(¨ØÃ’8ËòÅô’1
+Q
+java:S1481"4Remove this unused "textFileInvoker" local variable.(¨ØÃ’8ÏòÅô’1
+O
+java:S1481	"-Remove this unused "textFile" local variable.(ÈÀ×Øýÿÿÿÿ8µ‡Çô’1
