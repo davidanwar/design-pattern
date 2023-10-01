@@ -17,5 +17,3 @@ O
 src/course1/TemplateClient.java,9\9\99adac40bf0164e059d8801b2222ce51dfdfb4f6
 M
 src/course1/FacadeClient.java,0\e\0ee5bfaca0615e70f6ce00ff5e2c935b3b019066
-N
-src/course2/model/Balloon.java,8\9\89739ce3ffe17bdde72329807869982a0ad29518
