@@ -17,3 +17,19 @@ O
 src/course1/TemplateClient.java,9\9\99adac40bf0164e059d8801b2222ce51dfdfb4f6
 M
 src/course1/FacadeClient.java,0\e\0ee5bfaca0615e70f6ce00ff5e2c935b3b019066
+Z
+*src/course2/observer/model/EmailTopic.java,0\7\0707bff31cfa9302ef31076334b69e7e70b6b34e
+N
+src/course2/observer/Main.java,7\c\7ce217beb4f794c49cc48bc59abea0167502c1c2
+Z
+*src/course2/observer/wheater/Observer.java,0\4\04299733b707cf17f12181216a75f8ff41fc1cb2
+Y
+)src/course2/observer/wheater/Subject.java,2\6\26ddc05f06d4584bc7f31e030151d76d5b2ad083
+b
+2src/course2/observer/wheater/StatisticDisplay.java,8\4\846ab5373bb1de0f19d76dcb2cfdd0ac32a1f438
+a
+1src/course2/observer/wheater/ForecastDisplay.java,d\f\dfbe407515a5a238c15dd83fa62bc7c71bd01be1
+i
+9src/course2/observer/wheater/CurrentConditionDisplay.java,3\c\3c7080c3fea9d7463df1756b20fe5a473e9adca3
+`
+0src/course2/observer/wheater/DisplayElement.java,f\6\f6f320b76def50439556f19cc6d15a42b1700857
