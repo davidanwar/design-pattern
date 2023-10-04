@@ -73,3 +73,9 @@ f
 6src/course2/decorator/beverage/CondimentDecorator.java,2\e\2e983a851cb257a7b371c98928ba99a198c7088d
 c
 3src/course2/decorator/icecream/VanillaIceCream.java,c\f\cf1cc07ef70612d1dda57b24db34ee69e08b9188
+`
+0src/course2/decorator/icecream/MintIceCream.java,2\1\21da70e520cedebfbd41dceaffba0ccff99180bb
+X
+(src/course2/decorator/icecream/Main.java,6\d\6db41eddd3615e73cca4984927a42f583c5a1dfb
+e
+5src/course2/decorator/icecream/ChocolateIceCream.java,c\2\c2782a84f21f5bd4c96efc1f9ce7b8422ef2226e
